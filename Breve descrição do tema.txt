@@ -1,0 +1,4 @@
+Pretende-se armazenar a informação relativa a uma rede de cinemas.
+Cada cinema pertencente à cadeia de cinemas tem o seu nome, local, nº de salas (que por sua vez, terá o seu número, lugares e tipo (IMAX por exemplo)) e a esse cinema estão associados funcionários com as respetivas funções, horário, identificação e salário.
+Cada filme tem o seu nome, género, duração, idioma, ano em que foi lançado etc... que para assistir é necessário um cliente adquirir um bilhete, que tem o seu preço, lugar e hora de exibição. 
+Nota: esta descrição é apenas preliminar, estando sujeita a alterações futuras
